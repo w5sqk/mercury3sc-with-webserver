@@ -8,7 +8,7 @@ initial code working
 
 ip address via dhcp 
 
-webdisplay @ http://<ip address> port 80
+http:// ip address:80
   
   displays same amplifier values as K9SUL's serial console 't' command, refreshes every 1 seconds, future effort to move to socket based 
   
